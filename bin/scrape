@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/controller'
+
+Controller.show_overly_excited_reviews
